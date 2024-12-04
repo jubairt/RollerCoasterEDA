@@ -1,5 +1,7 @@
 # 🎢 Roller Coaster Insights: An EDA Adventure  
 
+![Roller Coaster Image](RollerCoaster.jpeg)
+
 🚀 **Explore the thrilling world of roller coasters with data!**  
 This project dives into the twists and turns of roller coaster trends, analyzing speed, height, inversions, and more to uncover exciting patterns. From cleaning messy data to visualizing intriguing insights, this project is a complete adventure in exploratory data analysis (EDA).  
 
@@ -36,17 +38,4 @@ Before diving into analysis, we cleaned the data for consistency and relevance:
 ### 2. **Average Speed by Location**  
 - A horizontal bar chart showing average roller coaster speeds by location for places with at least 10 entries.  
 
----
-
-## 🌟 Insights  
-
-1. **Popular Years**: The early 2000s saw a surge in coaster introductions.  
-2. **Regional Trends**: Locations like the US and Japan dominate with high-speed coasters.  
-
----
-
-## 🚀 How to Run  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your_username/roller-coaster-insights.git  
+ 
